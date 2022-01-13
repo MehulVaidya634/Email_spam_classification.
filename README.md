@@ -4,7 +4,7 @@
 Spam detection is a binary classification problem.
 By detecting unsolicited and unwanted emails, we can prevent spam messages from creeping into the user’s inbox, thereby improving user experience.
 
-![0_mbFBPcPUJD-53v3h](https://user-images.githubusercontent.com/95433685/149318913-6b99ce96-0bd5-44a3-b287-232369410a33.png)
+![1_hsyCZOYoGrX6BJsj4Lgrhg](https://user-images.githubusercontent.com/95433685/149326144-c8f86795-bd24-40e4-8043-237df4bdc1db.png)
 
 ## Goal.
 
